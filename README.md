@@ -11,6 +11,6 @@ A lightweight, feature-packed ghost client designed for Minecraft, providing adv
 
 ## Installation
 
-1. Clone the repository or download the release zip file.
+1. Clone the repository and compile it yourself<3
    ```bash
    git clone https://github.com/cyruswastaken/GhostClient.git
