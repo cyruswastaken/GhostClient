@@ -8,7 +8,6 @@ A lightweight, feature-packed ghost client designed for Minecraft, providing adv
 - **Optimized Performance**: Lightweight and efficient to ensure smooth gameplay.
 - **Customizable Modules**: Enable or disable features as per your preference.
 - **Hotkey Support**: Quick access to essential functionalities.
-- **User-Friendly Interface**: Clean and simple design for easy navigation.
 
 ## Installation
 
